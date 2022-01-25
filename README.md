@@ -1,7 +1,7 @@
 # GameOfLife
 GameOfLife
 
-This is a simple clone of "Game of Life" made with Python.
+This is a simple clone of "Game of Life" made with Python and pygame.
 
 Tiles can be added by clicking on the grid.
 
